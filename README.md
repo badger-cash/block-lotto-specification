@@ -91,9 +91,9 @@ None currently
 
 ### Sample Transactions
 
-[Ticket Transaction](https://explorer.e.cash/tx/361198ada49c1928e107dd93ab7bac53acbef208b0c0e8e65b4e33c3a02a32b6)
+[Ticket Transaction](https://explorer.e.cash/tx/faf3c10450560081f9080d86488c5195932b810062fb14153f0ccaf4a99d2ad1)
 
-[Redeem/Payout Transaction](https://explorer.e.cash/tx/32a716ffe3c88f6db6316dd513faee30330f938b4a0eff068bacc64890f9f862)
+[Redeem/Payout Transaction](https://explorer.e.cash/tx/52a6cdc351595ff405c073cbd3515c7b9188a37849f9acd72fbbb96eebd2efa8)
 
 ### Code
 
