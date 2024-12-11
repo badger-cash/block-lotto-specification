@@ -20,6 +20,10 @@ Bitcoin uses [Merkle trees](https://en.wikipedia.org/wiki/Merkle_tree) as part o
 3. The Merkle root is added to the original set and the set is ordered again, placing the newly included root at the proper index
 4. The Merkle proof/branch for the Merkle root is calculated. The first step in the proof will be to hash the Merkle root with an existing member of the set. This member, the "hashing partner" of the Merkle root, is the winner of the drawing
 
+#### Multiple Winner Variation
+
+For a drawing where there are multiple winners, after each winner is drawn, the Merkle root and the winning number are removed from the set and the process is started again to get the next winner.
+
 ## Reference Implementations
 
 ### Clients
