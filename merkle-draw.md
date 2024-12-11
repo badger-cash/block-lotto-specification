@@ -36,8 +36,6 @@ None currently
 
 Reference code for conducting a Merkle Draw using [checkout-components](https://github.com/hansekontor/checkout-components) JavaScript library
 
-#### Redeem Mint Vault
-
 ```js
 const { 
     bcrypto: {
